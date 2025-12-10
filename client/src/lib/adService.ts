@@ -4,9 +4,9 @@
 
 import { toast } from "sonner";
 
-export const ADMOB_APP_ID = "ca-app-pub-0000000000000000~0000000000";
-export const BANNER_AD_ID = "ca-app-pub-0000000000000000/0000000000";
-export const INTERSTITIAL_AD_ID = "ca-app-pub-0000000000000000/0000000000";
+export const ADMOB_APP_ID = "ca-app-pub-8774407960230519~5473036103";
+export const BANNER_AD_ID = "ca-app-pub-8774407960230519/8488698798";
+export const INTERSTITIAL_AD_ID = "ca-app-pub-8774407960230519/4517556397";
 
 const simulateAdDelay = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
 
